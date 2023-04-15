@@ -1,0 +1,1 @@
+git es un sistema de cotrol de versiones ideado por linus trovels.
